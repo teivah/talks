@@ -2,7 +2,7 @@
 
 ## 2022
 
-### Reliability? (Personal presentation while sharing my experience with another company)
+### Reliability?
 
 * Slides:
     * [PDF](Reliability.pdf)
