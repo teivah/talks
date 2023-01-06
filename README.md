@@ -6,6 +6,7 @@
 
 * Slides:
     * [PDF](Reliability.pdf)
+    * [SlideShare](https://www.slideshare.net/TeivaHarsanyi/reliability-251744387)
 
 ## 2021
 
