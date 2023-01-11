@@ -1,11 +1,21 @@
 # Talks - Teiva Harsanyi
 
+## 2023
+
+### 3 Erreurs Courantes en Go (Golang Paris, French)
+
+* Slides:
+    * [Keynote](3-erreurs-courantes-go.key)
+    * [PDF (with animations)](3-erreurs-courantes-go-animations.pdf)
+    * [PDF (flat)](3-erreurs-courantes-go-flat.pdf)
+
 ## 2022
 
 ### Reliability?
 
 * Slides:
-    * [PDF](Reliability.pdf)
+    * [Keynote](reliability.key)
+    * [PDF](reliability.pdf)
     * [SlideShare](https://www.slideshare.net/TeivaHarsanyi/reliability-251744387)
 
 ## 2021
@@ -21,5 +31,6 @@
 
 * [YouTube talk](https://www.youtube.com/watch?v=cetmDfqr2BU)
 * Slides:
-    * [PDF](Mechanical%20Sympathy%20in%20Go.pdf)
-    * [Keynote](Mechanical%20Sympathy%20in%20Go.key)
+    * [Keynote](mechanical-sympathy.key)
+    * [PDF (with animations)](mechanical-sympathy-animations.pdf)
+    * [PDF (flat)](mechanical-sympathy-flat.pdf)
