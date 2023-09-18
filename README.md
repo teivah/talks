@@ -6,6 +6,8 @@
 
 Soon (10/19)
 
+* [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQxrm0UPjpjXx3Xd1VWj3Qej9tlIa35Hd60-x3XmCw5p9_UHgXmYzqRCGxeqXt-TOisCvOU3n1zwiCU/pub?start=false&loop=false&delayms=60000)
+
 ### 3 Erreurs Courantes en Go (Golang Paris, French)
 
 * Slides:
