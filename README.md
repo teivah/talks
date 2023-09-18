@@ -2,6 +2,10 @@
 
 ## 2023
 
+### Running a Go App in Kubernetes: CPU Impacts (P99 Conf)
+
+Soon (10/19)
+
 ### 3 Erreurs Courantes en Go (Golang Paris, French)
 
 * Slides:
