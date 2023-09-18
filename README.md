@@ -9,12 +9,16 @@ Soon (10/19)
 * Slides:
     * [Online](https://docs.google.com/presentation/d/e/2PACX-1vQxrm0UPjpjXx3Xd1VWj3Qej9tlIa35Hd60-x3XmCw5p9_UHgXmYzqRCGxeqXt-TOisCvOU3n1zwiCU/pub?start=false&loop=false&delayms=60000)
 
+#golang #kubernetes #performance
+
 ### 3 Erreurs Courantes en Go ([Golang Paris](https://www.meetup.com/fr-FR/golang-paris/) 🇫🇷)
 
 * Slides:
     * [Keynote](3-erreurs-courantes-go.key)
     * [PDF (with animations)](3-erreurs-courantes-go-animations.pdf)
     * [PDF (flat)](3-erreurs-courantes-go-flat.pdf)
+
+#golang #mistakes
 
 ## 2022
 
@@ -25,12 +29,16 @@ Soon (10/19)
     * [PDF](reliability.pdf)
     * [SlideShare](https://www.slideshare.net/TeivaHarsanyi/reliability-251744387)
 
+#reliability #sre #slo #chaosengineering
+
 ## 2021
 
 ###  How to Make Mistakes in Go ([Go Time](https://changelog.com/gotime) Episode #190)
 
 * [Episode](https://changelog.com/gotime/190)
 * [Spotify](https://open.spotify.com/episode/0K1DImrxHCy6E7zVY4AxMZ?si=akroInsPQ1mM5B5V2tHLUw&dl_branch=1)
+
+#golang #book #podcast
 
 ## 2020
 
@@ -41,3 +49,5 @@ Soon (10/19)
     * [Keynote](mechanical-sympathy.key)
     * [PDF (with animations)](mechanical-sympathy-animations.pdf)
     * [PDF (flat)](mechanical-sympathy-flat.pdf)
+
+#golang #cpu #memory #performance
