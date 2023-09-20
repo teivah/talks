@@ -9,7 +9,7 @@ Tags: _#golang #kubernetes #performance_
 Soon (10/19)
 
 * Slides:
-    * [Online](https://docs.google.com/presentation/d/e/2PACX-1vQxrm0UPjpjXx3Xd1VWj3Qej9tlIa35Hd60-x3XmCw5p9_UHgXmYzqRCGxeqXt-TOisCvOU3n1zwiCU/pub?start=false&loop=false&delayms=60000)
+    * [Online](https://docs.google.com/presentation/d/e/2PACX-1vRabs0KJAXj80z3WzDP40ZAfXBNPKpUiDE2_jgl0jqvXcvw9FcphBj5tlOwRzQUIDE4qMQx6NP37W76/pub?start=false&loop=false#slide=id.p)
 
 ### 3 Erreurs Courantes en Go ([Golang Paris](https://www.meetup.com/fr-FR/golang-paris/) 🇫🇷)
 
