@@ -6,10 +6,9 @@
 
 Tags: _#golang #kubernetes #performance_
 
-Soon (10/19)
-
 * Slides:
     * [Online](https://docs.google.com/presentation/d/e/2PACX-1vRabs0KJAXj80z3WzDP40ZAfXBNPKpUiDE2_jgl0jqvXcvw9FcphBj5tlOwRzQUIDE4qMQx6NP37W76/pub?start=false&loop=false#slide=id.p)
+* [Talk](https://www.p99conf.io/session/running-a-go-app-in-kubernetes-cpu-impacts/) (registration required)
 
 ### 3 Erreurs Courantes en Go ([Golang Paris](https://www.meetup.com/fr-FR/golang-paris/) 🇫🇷)
 
