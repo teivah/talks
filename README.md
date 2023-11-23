@@ -2,15 +2,20 @@
 
 ## 2023
 
+### 3 Reliability Anti-Patterns ([SRE France](https://www.meetup.com/fr-FR/site-reliability-engineering-france/events/296967843/))
+
+Tags: _#reliability #sre_
+
+* [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS3r68xeyeqmWys1I5NuQKJPCwNV-qqtpgOT8OJY0GQdg-UeuQLGvgE0-6c4m64A9lfhXK2kX12xH7e/pub?start=false&loop=false)
+
 ### Running a Go App in Kubernetes: CPU Impacts ([P99 Conf](https://www.p99conf.io/))
 
 Tags: _#golang #kubernetes #performance_
 
-* Slides:
-    * [Online](https://docs.google.com/presentation/d/e/2PACX-1vRabs0KJAXj80z3WzDP40ZAfXBNPKpUiDE2_jgl0jqvXcvw9FcphBj5tlOwRzQUIDE4qMQx6NP37W76/pub?start=false&loop=false#slide=id.p)
+* [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRabs0KJAXj80z3WzDP40ZAfXBNPKpUiDE2_jgl0jqvXcvw9FcphBj5tlOwRzQUIDE4qMQx6NP37W76/pub?start=false&loop=false#slide=id.p)
 * [Talk](https://www.p99conf.io/session/running-a-go-app-in-kubernetes-cpu-impacts/) (registration required)
 
-### 3 Erreurs Courantes en Go ([Golang Paris](https://www.meetup.com/fr-FR/golang-paris/) 🇫🇷)
+### (French) 3 Erreurs Courantes en Go ([Golang Paris](https://www.meetup.com/fr-FR/golang-paris/))
 
 Tags: _#golang #mistakes_
 
