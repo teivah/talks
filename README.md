@@ -7,6 +7,7 @@
 Tags: _#reliability #sre_
 
 * [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS3r68xeyeqmWys1I5NuQKJPCwNV-qqtpgOT8OJY0GQdg-UeuQLGvgE0-6c4m64A9lfhXK2kX12xH7e/pub?start=false&loop=false)
+* [Talk (French)](https://youtu.be/mpOGwttM_v4?si=G8eiy-s6PEthZInm&t=1550)
 
 ### Running a Go App in Kubernetes: CPU Impacts ([P99 Conf](https://www.p99conf.io/))
 
