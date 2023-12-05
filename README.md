@@ -24,6 +24,7 @@ Tags: _#golang #mistakes_
     * [Keynote](3-erreurs-courantes-go.key)
     * [PDF (with animations)](3-erreurs-courantes-go-animations.pdf)
     * [PDF (flat)](3-erreurs-courantes-go-flat.pdf)
+* [Talk](https://www.youtube.com/watch?v=kRohPrlH8Tw) (French)
 
 ## 2022
 
