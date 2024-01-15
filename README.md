@@ -6,7 +6,7 @@
 
 * [YouTube](https://www.youtube.com/watch?v=RdQMjTgAfDs)
 
-Tags: _#golang #career#_
+Tags: _#golang #career_
 
 ### 3 Reliability Anti-Patterns ([SRE France](https://www.meetup.com/fr-FR/site-reliability-engineering-france/events/296967843/))
 
