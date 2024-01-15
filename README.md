@@ -2,6 +2,12 @@
 
 ## 2023
 
+###  Google, Tech, and Go with Teiva Harsanyi (Ardan Labs podcast with Bill Kennedy)
+
+* [YouTube](https://www.youtube.com/watch?v=RdQMjTgAfDs)
+
+Tags: _#golang #career#_
+
 ### 3 Reliability Anti-Patterns ([SRE France](https://www.meetup.com/fr-FR/site-reliability-engineering-france/events/296967843/))
 
 Tags: _#reliability #sre_
