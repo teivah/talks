@@ -1,5 +1,13 @@
 # Talks - Teiva Harsanyi
 
+## 2024
+
+### 4 Common Go Mistakes ([Golang Insiders](https://twitter.com/i/communities/1685641800449462272) meetup)
+
+Tags: _#golang_
+
+* [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR9faiR0Maxpfj383l564ib3ch94N8z23MZxqCH-t7AuEiPhkGYWmRXIuHxmRzq1msQGmqjVvz-GLUo/pub?start=false&loop=false)
+
 ## 2023
 
 ###  Google, Tech, and Go with Teiva Harsanyi (Ardan Labs podcast with Bill Kennedy)
@@ -24,7 +32,7 @@ Tags: _#golang #kubernetes #performance_
 
 ### 3 Erreurs Courantes en Go ([Golang Paris](https://www.meetup.com/fr-FR/golang-paris/), slides in French)
 
-Tags: _#golang #mistakes_
+Tags: _#golang_
 
 * Slides:
     * [Keynote](3-erreurs-courantes-go.key)
