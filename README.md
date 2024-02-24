@@ -81,7 +81,7 @@ Tags: _#golang #book #podcast_
 
 ## 2020
 
-### Mechanical Sympathy in Go ([GopherCon Turkey 2020](https://gophercon.ist/) conference)
+### Mechanical Sympathy in Go ([GopherCon Turkey 2020](https://gophercon.ist/) online conference)
 
 Tags: _#golang #cpu #memory #performance_
 
