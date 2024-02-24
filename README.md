@@ -7,6 +7,8 @@
 ![](https://img.shields.io/badge/Podcasts-2-green?logo=applepodcasts)
 ![](https://img.shields.io/badge/Others-1-gray?logo=statuspage)
 
+![](mapchart.net.png)
+
 ## 2024
 
 ### 4 Reliability Anti-Patterns ([ConFoo 2024](https://confoo.ca/en/2024/) conference)
