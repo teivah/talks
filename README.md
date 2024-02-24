@@ -14,12 +14,14 @@
 ### 4 Reliability Anti-Patterns ([ConFoo 2024](https://confoo.ca/en/2024/) conference)
 
 * [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSliUbEggyAxG6lXczPtR_lGRR5UIURiEJ3mlyf9Hlw-BNcfxloTWIPcwjmxeAgGxbnIAyodtpuLkEc/pub?start=false&loop=false&slide=id.g2b9775219ee_0_57)
+* [PDF](4%20Reliability%20Anti-Patterns%20(ConFoo).pdf)
 
 Tags: _#reliability #sre_
 
 ### I Completed All 9 Advents of Code: Lessons Learned ([ConFoo 2024](https://confoo.ca/en/2024/) conference)
 
 * [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS4opZu2emQk76w2u1PD9YZxOpbCY8I-qWbKY6USTCrlHAGlvfirktuINnJKtCwMR3QBpt4-ayLXqQ2/pub?start=false&loop=false&resourcekey=0-hBAWmWmBsUFwXVJAk-0KNQ&slide=id.g2b14d668740_2_28)
+* [PDF](I%20Completed%20All%209%20Advents%20of%20Code%20-%20Lessons%20Learned%20(ConFoo).pdf)
 
 Tags: _#coding_
 
