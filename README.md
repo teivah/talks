@@ -1,5 +1,12 @@
 # Talks - Teiva Harsanyi
 
+![](https://img.shields.io/badge/Total-10-yellow?logo=kakaotalk)
+
+![](https://img.shields.io/badge/Conferences-4-blue?logo=theconversation)
+![](https://img.shields.io/badge/Meetups-3-red?logo=meetup)
+![](https://img.shields.io/badge/Podcasts-2-green?logo=applepodcasts)
+![](https://img.shields.io/badge/Others-1-gray?logo=statuspage)
+
 ## 2024
 
 ### 4 Reliability Anti-Patterns ([ConFoo 2024](https://confoo.ca/en/2024/) conference)
@@ -28,21 +35,21 @@ Tags: _#golang_
 
 Tags: _#golang #career_
 
-### 3 Reliability Anti-Patterns ([SRE France](https://www.meetup.com/fr-FR/site-reliability-engineering-france/events/296967843/))
+### 3 Reliability Anti-Patterns ([SRE France](https://www.meetup.com/fr-FR/site-reliability-engineering-france/events/296967843/) meetup)
 
 Tags: _#reliability #sre_
 
 * [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS3r68xeyeqmWys1I5NuQKJPCwNV-qqtpgOT8OJY0GQdg-UeuQLGvgE0-6c4m64A9lfhXK2kX12xH7e/pub?start=false&loop=false)
 * [Talk](https://youtu.be/mpOGwttM_v4?si=G8eiy-s6PEthZInm&t=1550) (French)
 
-### Running a Go App in Kubernetes: CPU Impacts ([P99 Conf](https://www.p99conf.io/))
+### Running a Go App in Kubernetes: CPU Impacts ([P99 Conf](https://www.p99conf.io/) online conference)
 
 Tags: _#golang #kubernetes #performance_
 
 * [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRabs0KJAXj80z3WzDP40ZAfXBNPKpUiDE2_jgl0jqvXcvw9FcphBj5tlOwRzQUIDE4qMQx6NP37W76/pub?start=false&loop=false#slide=id.p)
 * [Talk](https://www.p99conf.io/session/running-a-go-app-in-kubernetes-cpu-impacts/) (registration required)
 
-### 3 Erreurs Courantes en Go ([Golang Paris](https://www.meetup.com/fr-FR/golang-paris/), slides in French)
+### 3 Erreurs Courantes en Go ([Golang Paris](https://www.meetup.com/fr-FR/golang-paris/) meetup)
 
 Tags: _#golang_
 
@@ -65,7 +72,7 @@ Tags: _#reliability #sre #slo #chaosengineering_
 
 ## 2021
 
-###  How to Make Mistakes in Go ([Go Time](https://changelog.com/gotime) Episode #190)
+###  How to Make Mistakes in Go ([Go Time](https://changelog.com/gotime) podcast - Episode #190)
 
 Tags: _#golang #book #podcast_
 
@@ -74,11 +81,11 @@ Tags: _#golang #book #podcast_
 
 ## 2020
 
-### Mechanical Sympathy in Go ([GopherCon Turkey](https://gophercon.ist/) 2020)
+### Mechanical Sympathy in Go ([GopherCon Turkey 2020](https://gophercon.ist/) conference)
 
 Tags: _#golang #cpu #memory #performance_
 
-* [YouTube talk](https://www.youtube.com/watch?v=cetmDfqr2BU)
+* [YouTube](https://www.youtube.com/watch?v=cetmDfqr2BU)
 * Slides:
     * [Keynote](mechanical-sympathy.key)
     * [PDF (with animations)](mechanical-sympathy-animations.pdf)
