@@ -2,6 +2,14 @@
 
 ## 2024
 
+### 4 Reliability Anti-Patterns ([ConFoo 2024](https://confoo.ca/en/2024/) conference)
+
+* [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSliUbEggyAxG6lXczPtR_lGRR5UIURiEJ3mlyf9Hlw-BNcfxloTWIPcwjmxeAgGxbnIAyodtpuLkEc/pub?start=false&loop=false&slide=id.g2b9775219ee_0_57)
+
+### I Completed All 9 Advents of Code: Lessons Learned ([ConFoo 2024](https://confoo.ca/en/2024/) conference)
+
+* [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS4opZu2emQk76w2u1PD9YZxOpbCY8I-qWbKY6USTCrlHAGlvfirktuINnJKtCwMR3QBpt4-ayLXqQ2/pub?start=false&loop=false&resourcekey=0-hBAWmWmBsUFwXVJAk-0KNQ&slide=id.g2b14d668740_2_28)
+
 ### 4 Common Go Mistakes ([Golang Insiders](https://twitter.com/i/communities/1685641800449462272) meetup)
 
 Tags: _#golang_
