@@ -1,11 +1,9 @@
 # Talks - Teiva Harsanyi
 
-![](https://img.shields.io/badge/Total-10-yellow?logo=kakaotalk)
-
 ![](https://img.shields.io/badge/Conferences-4-blue?logo=theconversation)
 ![](https://img.shields.io/badge/Meetups-3-red?logo=meetup)
-![](https://img.shields.io/badge/Podcasts-2-green?logo=applepodcasts)
-![](https://img.shields.io/badge/Others-1-gray?logo=statuspage)
+![](https://img.shields.io/badge/Podcasts-2-yellow?logo=applepodcasts)
+![](https://img.shields.io/badge/Others-1-white?logo=statuspage)
 
 ![](mapchart.net.png)
 
@@ -15,6 +13,8 @@
 
 * [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSliUbEggyAxG6lXczPtR_lGRR5UIURiEJ3mlyf9Hlw-BNcfxloTWIPcwjmxeAgGxbnIAyodtpuLkEc/pub?start=false&loop=false&slide=id.g2b9775219ee_0_57)
 * [PDF](4%20Reliability%20Anti-Patterns%20(ConFoo).pdf)
+
+⭐ Selected as [top 1](https://confoo.ca/en/2024/top) talk of the conference
 
 Tags: _#reliability #sre_
 
