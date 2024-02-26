@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Podcasts-2-yellow?logo=applepodcasts)
 ![](https://img.shields.io/badge/Others-1-white?logo=statuspage)
 
-![](mapchart.net.png)
+![](res/mapchart.net.png)
 
 ## 2024
 
