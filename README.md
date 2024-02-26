@@ -1,4 +1,4 @@
-# Talks - Teiva Harsanyi
+# Teiva Harsanyi's Talks
 
 ![](https://img.shields.io/badge/Conferences-4-blue?logo=theconversation)
 ![](https://img.shields.io/badge/Meetups-3-red?logo=meetup)
