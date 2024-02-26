@@ -13,7 +13,7 @@
 
 Tags: _#reliability #sre_
 
-Slides:
+* Slides:
   * [Online](https://docs.google.com/presentation/d/e/2PACX-1vSliUbEggyAxG6lXczPtR_lGRR5UIURiEJ3mlyf9Hlw-BNcfxloTWIPcwjmxeAgGxbnIAyodtpuLkEc/pub?start=false&loop=false&slide=id.g2b9775219ee_0_57)
   * [PDF](res/confoo-2024-4-reliability-anti-patterns.pdf)
 
@@ -23,7 +23,7 @@ Slides:
 
 Tags: _#coding_
 
-Slides:
+* Slides:
   * [Online](https://docs.google.com/presentation/d/e/2PACX-1vS4opZu2emQk76w2u1PD9YZxOpbCY8I-qWbKY6USTCrlHAGlvfirktuINnJKtCwMR3QBpt4-ayLXqQ2/pub?start=false&loop=false&resourcekey=0-hBAWmWmBsUFwXVJAk-0KNQ&slide=id.g2b14d668740_2_28)
   * [PDF](res/confoo-2024-I-completed-all-9-advents-of-code.pdf)
 
@@ -31,7 +31,7 @@ Slides:
 
 Tags: _#golang_
 
-Slides:
+* Slides:
   * [Online](https://docs.google.com/presentation/d/e/2PACX-1vR9faiR0Maxpfj383l564ib3ch94N8z23MZxqCH-t7AuEiPhkGYWmRXIuHxmRzq1msQGmqjVvz-GLUo/pub?start=false&loop=false)
 
 ## 2023
@@ -46,9 +46,10 @@ Tags: _#golang #career_
 
 Tags: _#reliability #sre_
 
-Slides:
+* Slides:
   * [Online](https://docs.google.com/presentation/d/e/2PACX-1vS3r68xeyeqmWys1I5NuQKJPCwNV-qqtpgOT8OJY0GQdg-UeuQLGvgE0-6c4m64A9lfhXK2kX12xH7e/pub?start=false&loop=false)
 * [YouTube](https://youtu.be/mpOGwttM_v4?si=G8eiy-s6PEthZInm&t=1550) (French)
+* [Meetup](https://www.meetup.com/fr-FR/golang-paris/events/290260201/)
 
 ### Running a Go App in Kubernetes: CPU Impacts - [P99 Conf](https://www.p99conf.io/) online conference
 
