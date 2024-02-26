@@ -36,7 +36,7 @@ Slides:
 
 ## 2023
 
-###  Google, Tech, and Go with Teiva Harsanyi - Ardan Labs Podcast
+###  Google, Tech, and Go with Teiva Harsanyi - [Ardan Labs](Ardan Labs Podcast) Podcast
 
 Tags: _#golang #career_
 
